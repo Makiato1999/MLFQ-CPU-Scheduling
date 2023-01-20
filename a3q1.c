@@ -1,9 +1,5 @@
 //-----------------------------------------
 // NAME: Xiaoran Xie
-// STUDENT NUMBER: 7884702
-// COURSE: COMP 3430, SECTION: A01
-// INSTRUCTOR: Robert Guderian
-// ASSIGNMENT: assignment 3
 //
 // REMARKS: MLFQ
 //
