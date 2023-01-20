@@ -1,7 +1,5 @@
 
-# Assignment 3
-- student name:Xiaoran Xie
-- student number:7884702
+# MLFQ-CPU-Scheduling
 - how to compile all files: 'make'
 - how to clean all obj files: 'make clean'
 ## How to run
