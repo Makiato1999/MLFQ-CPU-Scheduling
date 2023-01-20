@@ -1,11 +1,11 @@
 
 # MLFQ-CPU-Scheduling
-- how to compile all files: 'make'
-- how to clean all obj files: 'make clean'
+- how to compile all files: ```make```
+- how to clean all obj files: ```make clean```
 ## How to run
-- './a3q1 numOfCPUs boostTimeS fileName.txt' 
-- Such as './a3q1 4 5000 tasks.txt'
-- I have put the tasks.txt and taskmaker.py in this folder, you can use 'python taskmaker.py' to create new task data and overwrite the tasks.txt.
+- ```./a3q1 numOfCPUs boostTimeS fileName.txt```
+- Such as ```./a3q1 4 5000 tasks.txt```
+- I have put the tasks.txt and taskmaker.py in this folder, you can use ```python taskmaker.py``` to create new task data and overwrite the tasks.txt.
 ## When S is 3000
 ### Using mlfq with 1 CPUs.
 Type | Average turnaround time
